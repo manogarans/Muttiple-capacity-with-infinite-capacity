@@ -25,7 +25,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Program
-
+```python
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
@@ -57,7 +57,7 @@ if (rho<1):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
-
+```
 ## Output :
 ![Screenshot 2024-04-13 090136](https://github.com/manogarans/Muttiple-capacity-with-infinite-capacity/assets/139331782/7cbe2e6c-eb9f-4c3e-bda6-e39e34387d4c)
 
