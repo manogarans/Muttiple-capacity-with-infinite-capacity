@@ -1,4 +1,3 @@
-![Screenshot 2024-04-13 084757](https://github.com/manogarans/Muttiple-capacity-with-infinite-capacity/assets/139331782/58242553-2681-4696-ac88-2ff379eb49f7)
 
 # Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 ## Aim :
@@ -25,6 +24,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Program
+### DEVELOPED BY : MANOGARAN S
+### REG NO : 212223240081
 ```python
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
